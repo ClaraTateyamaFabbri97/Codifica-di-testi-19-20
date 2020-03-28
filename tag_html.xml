@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<test>
+Testo del xml
+<htmlCode> 
+<![CDATA[
+    <h1> testo del capitolo del livello 1 
+    </h1>
+    <h2> parte di livello 2 
+    </h2>]]>
+</htmlCode>
+</test>

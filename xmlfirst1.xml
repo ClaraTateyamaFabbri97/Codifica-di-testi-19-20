@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<text>
+  il primo xml con validazione
+  <!-- xmlfirst.xml:5: parser error : Extra content at the end of the document
+  <text/> Questo è l'errore che dà quando provo a validarlo con XMLlint.
+  Ho cancellato <text/> e l'ho validato.
+  Non dà più segni di errore.
+-->
+  </text>

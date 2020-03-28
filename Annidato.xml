@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<test>
+<first> testo con <second> errore </first>
+testo corretto </second>
+<test>
+<!--
+Annidato.xml:3: parser error : Opening and ending tag mismatch: second line 3 and first
+<first> testo con <second> errore </first>
+                                          ^
+Annidato.xml:4: parser error : Opening and ending tag mismatch: first line 3 and second
+testo corretto </second>
+                        ^
+Annidato.xml:5: parser error : Premature end of data in tag test line 5
+<test>
+      ^
+Annidato.xml:5: parser error : Premature end of data in tag test line 2
+<test>
+      ^
+-->
