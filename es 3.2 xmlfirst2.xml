@@ -4,6 +4,7 @@
     matricola: 560405
     corso: codifica di testi 19-20
 -->
+<root>
 <text>
   il primo xml con validazione
   <child>
@@ -11,3 +12,4 @@
 </child>
 <Sibling> fratello </Sibling>
   </text>
+</root>
