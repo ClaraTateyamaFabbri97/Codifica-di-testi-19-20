@@ -3,7 +3,7 @@
     matricola: 560405
     corso: codifica di testi 19-20
 -->
-<!ELEMENT TEI (header+, facsimile?, text+)>
+<!ELEMENT TEI (header, facsimile?, text+)>
 <!ELEMENT header (#PCDATA)>
 <!ELEMENT facsimile (#PCDATA)>
 <!ELEMENT text (#PCDATA)>
