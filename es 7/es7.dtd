@@ -1,0 +1,10 @@
+<!--
+    studente: clara tateyama fabbri
+    matricola: 560405
+    corso: codifica di testi 19-20
+Definire internamente gli elementi e gli attributi e validare-->
+
+<!ELEMENT TEI (root, ramo, foglia)>
+<!ELEMENT root (ramo)>
+<!ELEMENT ramo (#PCDATA)>
+<!ELEMENT foglia (#PCDATA>
