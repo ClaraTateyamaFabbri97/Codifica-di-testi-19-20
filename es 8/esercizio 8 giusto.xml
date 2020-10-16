@@ -7,7 +7,7 @@
 <text>
 <titolo> Granblue Fantasy <titolo/>
 <intestazione> Intro </intestazione>
-<pagina n="0"/> 
+<pagina n="0"> 
 <p> As  I looked at how blue the sky was, I started yearning to depart towards the unknown horizon.
  My consciousness scattered into that distant horizon, sucked away by the blueness of the sky. </p>
 
@@ -15,8 +15,9 @@
 My dear son. I’ll be waiting on the Island of Astrals, Estalucia.</p>
 
 <p>The winds of beginning had started to blow on this island shrouded in mystery.</p>
+    </pagina>
 
-<pagina n="1"/>
+<pagina n="1">
 <p> Prologue <p>
 
 <p> I always looked up into the sky.</p> 
@@ -30,3 +31,4 @@ I wanted to try going there, to not lose to the clouds spreading to infinity.<p>
 
 <p>Even if my father never sent me that letter,
 I believe that fact would still remain unchanged―</p>
+    </pagina>
