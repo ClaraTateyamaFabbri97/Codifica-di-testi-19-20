@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<!--
+    studente: clara tateyama fabbri
+    matricola: 560405
+    corso: codifica di testi 19-20
+-->
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI>
+<teiHeader xml:lang="it">
+ <fileDesc>
+ <titleStmt>
+ <title>Alice Mare</title>
+<respStmt>
+<resp>Conversione TEI P5 a cura di</resp>
+<name>Clara Tateyama Fabbri</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+   <publisher>Università di Pisa</publisher>
+    <pubPlace>Pisa</pubPlace>
+     <date>2020-10-21</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+   <title>ALice Mare</title>
+   <author>Miwashiba</author>
+   <genre>Supernatural</genre>
+   <type>Light Novel</type>
+<publisher>
+  <ref target="https://www.amazon.it"></ref>
+</publisher>
+   <date>2015-01-27</date>
+  <price>1200</price>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+  <text xml:lang="en">
+          <front>
+            <titlePage>
+                <docAuthor>Meteor Hoshizora</docAuthor>
+                <docTitle>
+                <titlePart type="main"></titlePart>
+                </docTitle>
+                <docEdition>1st edition</docEdition>
+                <docImprint>
+                    <pubPlace>Japan</pubPlace>
+                    <publisher><ref target="https://www.amazon.it"></ref></publisher>
+                    <date>2015-01-27</date>
+                </docImprint>
+            </titlePage>
+        </front>
+  <body>
+    <head>Prologue</head>
+      <div n="1">
+        <p>The ant told me that the frog is bad. 
+        The frog told me that the cat is bad. 
+        The cat told me, <q>"No, the rabbit's the worst of all!"</q>
+        So I... </p>
+
+        <p>...My ears rang. Yet I could also hear it as a voice, trying to tell me something.
+        Slumping down in the chair, I looked up. The ceiling began to warp into whiteness. 
+        Wanting to check the time, I looked to where the clock should have been, but the numbers were black blots, squirming around like bugs; it wouldn't tell me anything useful.
+        I knew this scene well. I could still never forget that day.
+        <q>"...I <hi rend="italic">will</hi>end this,"</q>I muttered to no one in particular, shutting my eyes.
+        There was no end in sight to the ringing. The voice seemed to get increasingly louder.</p>
+
+        <p><q>"You want to be XXXXed? Then you just need to XXXX."</q>
+        <q>"What should I XXXX?"</q>
+        <q>"Let's see now... You should XXXX bad people. Then you'll be XXXXed, too."</q></p>
+
+        <p>That was what the cat told me. ...No, actually, I couldn't quite remember if it was the cat who said it. 
+        But I always wanted someone to XXXX me. It had been the only thing on my mind for a long time. 
+        That's why I was observing the children at the facility and continuing to research - in hopes of finding an answer. 
+        <q>"Ah, my head hurts..."</q>
+        I tried to lift myself up and head for the bed. But instead, I powerlessly fell onto the desk. 
+        I tried several times, but the worsening ringing in my ears and headache sapped my will. 
+        <q>"...Oh well,"</q> I mumbled, and lay my head down on the desk.</p>
+
+        <p>As I drifted off, amid the clamor of metallic sounds, I felt like I heard her voice.</p>
+      </div>
+
+    <head>Chapter 1:Good Night</head>
+      <div n="2">
+        <p>The long, white hallway went on. Every step echoed for long after I took it. 
+        As this went on unchanging for a while, I felt indescribable anxiety and helplessness. The place I was in earlier, I saw people who looked like workers here and there, but now there were absolutely no signs of life. The total silence only added to my unease. 
+        This town, situated next to a large forest, was a bustling place with lots of people. 
+        Fairly large, albeit not enough to be called a city. Compared to the forest, where many families lived modest, meager lives, everyone here lived much more bountifully. 
+        Now I was walking down the hallways of a large hospital built in the center of that town. 
+        Last night, my friend who worked here as a doctor gave me a call:<q>"I've got a kid here at the hospital I want you to inspect."</q>
+        <q>"Hey! Long time no see."</q> 
+        With a lively shout, someone grabbed my shoulder from behind. 
+        I turned around to a man in a white coat with a good-natured, freckled face topped with chestnut hair. 
+
+        <q>"Glad I got the idea to come looking for you. ...So you got lost again, huh?"</q>, asked Cliff - my only friend - with a little smile. 
+
+        <q>"...I guess I'm just not good at remembering places or directions. Ever since I started living there, I've only come to town for... just grocery shopping, I suppose."</q>
+
+        <q>"Sure, but you've been living here for way longer, so... Well, yeah, you've gotten lost a lot of places ever since we met in college..."</q> Cliff's forehead wrinkled, and he knit his brows. 
+
+        <q>"...Anyway, I still can't get over how you decided to buy that place and live there. There's always been weird rumors about it. You know? Like it being a mental hospital, or a place for human experimentation... I heard it all." </q>
+
+        <q>"I have you to thank for that. And yes, it's an odd place. No windows, and one of the rooms does lend itself to those kinds of stories. But I have to say I like it, because people's reluctance to come near means it's quiet."</q>
+
+        <q>"When you get right down to it, it's my fault, huh. ...So, what of that room, anyway? You mean the one on the second floor, down the left hall?"</q>, Cliff asked me, showing a bit of hesitation. 
+
+        <q>"I didn't even want to so much as clean it up, so I just left it as it was and locked the door."</q>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

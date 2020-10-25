@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<!--
+    studente: clara tateyama fabbri
+    matricola: 560405
+    corso: codifica di testi 19-20
+-->
+<TEI>
+    <teiHeader xml:lang="it">
+        <fileDesc>
+            <titleStmt>
+                <title>Genshin Impact: un simulatore di loot box permette di divertirsi gratis</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Clara Tateyama Fabbri</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <date>2020-10-21</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                    <author>Giovanni Panzano</author>
+                    <title level="a">Genshin Impact: un simulatore di loot box permette di divertirsi gratis</title>
+                    <date>2020-10-19</date>
+                    </analytic>
+                    <monogr>
+                        <author>Domenico Panebianco</author>
+                        <author>Simone De Marzo</author>
+                        <editor>HIDEDESIGN S.n.c.</editor>
+                        <title level="j">Everyeye.it</title>
+                        <imprint>
+                            <pubPlace>ITALIA</pubPlace>
+                            <publisher><ref target="https://www.everyeye.it/">Everyeye.it</ref></publisher>
+                            <date>2001-2020</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="it">
+        <front>
+            <titlePage>
+                <docAuthor>Giovanni Panzano</docAuthor>
+                <docTitle>
+                    <titlePart type="main">Genshin Impact: un simulatore di loot box permette di divertirsi gratis</titlePart>
+                </docTitle>
+                <docEdition>prima edizione</docEdition>
+                <docImprint>
+                    <pubPlace>Italia</pubPlace>
+                    <publisher><ref target="https://www.everyeye.it/">Everyeye.it</ref></publisher>
+                    <date>2020-10-19</date>
+                </docImprint>
+            </titlePage>
+        </front>
+
+        <div>
+            <body>
+                <p>State giocando a <hi rend="bold">Genshin Impact</hi> e volete approfondire il funzionamento delle loot box? 
+                Allora dovreste assolutamente dare un'occhiata al <hi rend="bold">simulatore di gacha</hi> creato da un fan del free to play targato <hi rend="bold">miHoYo</hi>.</p>
+
+                <p>Il sito web messo su dall'utente è davvero interessante e ben realizzato, dal momento che consente di acquistare loot box i cui contenuti hanno le medesime probabilità di uscire che hanno all'interno del gioco (oltre alla stessa animazione presente nel gioco al momento dell'apertura).
+                Oltre a poter fare numerosi tentativi, il sistema dà anche la possibilità di visualizzare uno <hi rend="bold">storico</hi> per comprendere quali sono gli oggetti ricevuti e quale sarebbe stata la cifra da spendere per ottenerli. 
+                Per quanto il sistema di loot box del gioco sia basato interamente sulla fortuna, si tratta di un ottimo mezzo per comprendere quanto sia difficile ottenere l'oggetto o il personaggio dei propri desideri anche spendendo cifre importanti. 
+                A questo proposito, vi ricordiamo che un noto streamer ha speso 5.000 dollari in Genshin Impact durante una diretta su Twitch per poi pentirsene.</p>
+
+                <p>Avete già dato un'occhiata al trailer di Venti in Genshin Impact? 
+                Il personaggio di supporto a 5 Stelle non è più disponibile nella sezione Wish e chiunque non l'abbia trovato dovrà attendere il suo ritorno nelle prossime settimane.</p>
+            </body>
+        </div>
+    </text>
+</TEI>
